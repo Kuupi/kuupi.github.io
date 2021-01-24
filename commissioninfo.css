@@ -1,0 +1,97 @@
+h1,nav {
+	color: #FCD7DB;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+
+} /*titolo*/
+nav {
+	font-size: 15px;
+    font-weight: 1000;
+} 
+nav a {
+	color: #B35F4F;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	background-color:#FCD7DB;
+	border-radius: 20px; 
+	padding:10px;
+	font-variant: small-caps bold;
+}
+a:hover {
+  color: hotpink;
+}
+nav a:hover {
+    background-color:white;}
+header /*titolo e nav*/{
+	margin:20px;
+	padding:12px;
+	border-radius: 17px;
+	text-align: center;
+	font-weight: bold;
+}
+img {
+	border-radius: 50%;
+	width: 120px;
+	opacity: 95%;
+	vertical-align: bottom;
+	border:3px solid white;
+}
+h2 /*to-do list, prices, how to hire me*/{
+ 	color: #B35F4F;
+ 	background-color: #FCD7DB;
+	text-align: center;
+	opacity: 80%;
+	border-radius:17px; 
+	padding:2px;
+}
+h3 /*commission status*/{
+ 	color: #B35F4F;
+ 	background-color: #BDFDC9;
+	text-align: center;
+	font-size: 16px;
+	border-top-right-radius:17px; 
+	border-top-left-radius:17px;
+	padding:6px;
+}
+h4 /*slots e waitlist, bust/halfb/fullb*/{
+ 	color: #B35F4F;
+	text-align: center;
+	font-size:17px;
+	font-variant: small-caps;
+}
+section {
+	margin:20px;
+	padding-bottom:20px;
+	border-radius: 17px;
+	background-color: white;
+	font-size: 17px;
+	font-variant: small-caps;
+	opacity:90%;
+	line-height: 16px;
+	}
+div {
+	margin:20px;
+	padding:20px;
+	border-radius: 17px;
+	background-color: white; 
+	text-align: justify-all;
+	opacity: 90%;
+	}
+body {
+	text-align: justify;
+	padding-left: 390px;
+	padding-right: 390px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	background-color: #B8A5B1;
+	font-weight: bolder;
+}
+ul,li {
+    width: 60%;
+    margin:auto;
+    line-height: 15px;
+}
+a {
+	color: #B07882
+}
